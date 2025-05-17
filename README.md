@@ -9,15 +9,16 @@
 
 • It demonstrates how files are managed internally by the OS using inodes, file tables, and directory structures. 
 
-• In this Project we create all Data Structure which required for File Subsystem as Inode, Inode Table, File Table, UAREA, User File Descripter(UFDT), Super Block, Disk Inode List Block, Data Block, Boot Block etc.
+• In this Project we create all Data Structure which required for File Subsystem as Inode, Inode Table, File Table, UAREA, User File Descripter(UFDT), Super Block, Disk 
+  Inode List Block, Data Block, Boot Block etc.
 
 • Known as customized virtual files system:-
 
-Customised : Because its designed is dependent on the users requirement
+ Customised : Because its designed is dependent on the users requirement
 
-Virtual : Because it is used in the RAM.
+ Virtual : Because it is used in the RAM.
 
-File System : Way of storing and retriving the files.
+ File System : Way of storing and retriving the files.
 
 ## **⚙️ Technologies Used**
 • Language: C / C++
@@ -52,4 +53,13 @@ truncate() : It is used to Remove all the data from file
 ![cvfs1](https://github.com/user-attachments/assets/481777ba-6cdc-4287-8f14-7bd3bf895fee)
 
 ![cvfs2](https://github.com/user-attachments/assets/636b3927-9dae-4c04-806c-3c0736d0ee28)
+
+## 📚 References :
+
+• LINUX SYSTEM PROGRAMMING - by Robert Love.
+
+• Advanced UNIX SYSTEM PROGRAMMING - by W. Richard Stevens.
+
+• THE LINUX PROGRAMING INTERFACE - by Michael Kerrisk.
+
 
