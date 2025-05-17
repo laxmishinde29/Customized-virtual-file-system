@@ -5,7 +5,10 @@ Customised Virtual File System (CVFS) is a simulation of a simplified file syste
 
 ## **⚙️ Technologies Used**
 • Language: C / C++
+
 • OS: Linux
+
 • IDE: Code::Blocks / GCC / Terminal
+
 • Reference: Advanced UNIX Programming by W. Richard Stevens
 
