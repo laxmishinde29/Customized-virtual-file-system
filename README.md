@@ -35,11 +35,21 @@ lseek() : It is used to change the offset of the file.
 stat() : It is used to display information of file using name.
 truncate() : It is used to Remove all the data from file
 
-## File System Layout on Hard disk :
+## Diagramatic representation file System Layout on Hard disk :
 
 ![File-System-Layout](https://github.com/user-attachments/assets/972a8acf-c24e-4dab-9da6-643e871e7c68)
 
+## Diagramatic representation of internal implimantation of file system :
 
+![File-System-Layout-on-RAM](https://github.com/user-attachments/assets/ac185321-a2bf-4cac-a9e5-728ade04a6ea)
 
+## Final layout of program :
 
+![Final Diagram](https://github.com/user-attachments/assets/380f2ffd-d523-42ee-b4ef-78b7afdab4bc)
+
+# output :
+
+![cvfs1](https://github.com/user-attachments/assets/481777ba-6cdc-4287-8f14-7bd3bf895fee)
+
+![cvfs2](https://github.com/user-attachments/assets/636b3927-9dae-4c04-806c-3c0736d0ee28)
 
