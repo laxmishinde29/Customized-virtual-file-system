@@ -28,12 +28,19 @@
 ## 🔧 Important System calls of File subsystems :
 
 create() : It is used to create new regular file.
+
 open() : It is used to open existing file.
+
 close() : It is used to close already opened file.
+
 read() : It isused to read the data from file.
+
 write() : It is used to write data into the file
+
 lseek() : It is used to change the offset of the file.
+
 stat() : It is used to display information of file using name.
+
 truncate() : It is used to Remove all the data from file
 
 ## Diagramatic representation file System Layout on Hard disk :
